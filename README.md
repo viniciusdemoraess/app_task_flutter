@@ -6,7 +6,7 @@ This project is a starting point for learning how to develop a Flutter applicati
 
 <p>Run the <b>'flutter run'</b> command at the root of the project together with an android device simulator or IOs.</p>
 
-'''bash
+```bash
   #clonar repositório
   $ git clone https://github.com/viniciusdemoraess/app_task_flutter.git
   
@@ -16,7 +16,7 @@ This project is a starting point for learning how to develop a Flutter applicati
   #rodar o flutter com o simulador Aberto
   $flutter run
   
-'''
+  ```
 
 ## <h2>Project Images✏️</h2>
 <h2 align='center'>
